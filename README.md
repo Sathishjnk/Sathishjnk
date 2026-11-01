@@ -52,12 +52,12 @@ Exploring AI-powered creative design, digital content and branding.
 
 ## 📊 GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Sathishjnk&show_icons=true&theme=tokyonight" height="165" />
-</p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=Sathishjnk&theme=tokyonight" height="165" />
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sathishjnk&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathishjnk&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 ## 🤝 Connect With Me
