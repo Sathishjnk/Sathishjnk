@@ -53,8 +53,6 @@ Exploring AI-powered creative design, digital content and branding.
 ## 📊 GitHub Activity
 
 
-## 📊 GitHub Statistics
-
 
 <h2 align="center">📊 GitHub Statistics</h2>
 
